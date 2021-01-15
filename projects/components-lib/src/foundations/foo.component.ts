@@ -1,5 +1,6 @@
 // src/app/components/task.component.ts
 import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
+import { Task } from '../models/task.model';
 @Component({
   selector: 'app-foo',
   template: `
@@ -26,7 +27,7 @@ import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 })
 export class FooComponent implements OnInit {
   title = '';
-  @Input() task = {};
+  @Input() task: Task = {};
 
   // tslint:disable-next-line: no-output-on-prefix
   @Output() onPinTask: EventEmitter<any> = new EventEmitter();
