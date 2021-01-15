@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/sulejman9444/library/compare/@sulejman9444/components-lib@0.2.0...@sulejman9444/components-lib@0.3.0) (2021-01-15)
+
+
+### Bug Fixes
+
+* 🐛 sadsfgfhfghg ([7e1324a](https://github.com/sulejman9444/library/commit/7e1324a2abf79dbc63d93bd397a2687484c86f5c))
+
+
+### BREAKING CHANGES
+
+* 🧨 gfdsgdfgh
+
+✅ Closes: f
+
+
+
+
+
 # [0.2.0](https://github.com/sulejman9444/library/compare/@sulejman9444/components-lib@0.1.1...@sulejman9444/components-lib@0.2.0) (2021-01-15)
 
 
