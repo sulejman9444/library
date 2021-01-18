@@ -19,6 +19,10 @@
       "components-lib": [
         "dist/components-lib/components-lib",
         "dist/components-lib"
+      ],
+      "foo-lib": [
+        "dist/foo-lib/foo-lib",
+        "dist/foo-lib"
       ]
     }
   }
